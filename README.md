@@ -11,7 +11,7 @@ A dataset of student recommendations of places to visit in Chicago.
 7. Feel free to make as many pull requests as you like!
 
 ## JSON Structure
-1. Create a JSON file (`name_of_place.json`) in this directory.
+1. Create a JSON file (`name_of_place.json`) in the `rawData/` directory.
 2. Use the following template to fill out an entry.
 
 ```json
